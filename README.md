@@ -1,6 +1,5 @@
-<div align="center">
+
   A powerful tool to convert animated WebP images to video formats
-</div>
 📖 About This Project
 This tool converts animated WebP images into popular video formats (MP4, MKV, WebM, GIF).
 It builds upon the excellent work of iTroy0's WebP-Converter (which itself was initially based on Dunttus' code).
