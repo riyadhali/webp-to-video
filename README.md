@@ -1,9 +1,5 @@
-A powerful tool to convert animated WebP images to video formats
-
-https://img.shields.io/badge/Python-3.7+-blue.svg
-https://img.shields.io/badge/License-MIT-yellow.svg
-https://img.shields.io/badge/FFmpeg-required-green.svg
-
+<div align="center">
+  A powerful tool to convert animated WebP images to video formats
 </div>
 📖 About This Project
 This tool converts animated WebP images into popular video formats (MP4, MKV, WebM, GIF).
