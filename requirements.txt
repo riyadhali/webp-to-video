@@ -1,0 +1,17 @@
+# Core GUI framework
+customtkinter
+
+# Optional: Drag and drop support (if you want to enable file drag & drop in GUI)
+# tkinterdnd2
+
+# Image processing (required for WebP handling and overlay)
+Pillow
+
+# Video creation (required for all video formats)
+moviepy
+
+# Provides built-in ffmpeg for moviepy (optional if you have ffmpeg installed system-wide)
+imageio-ffmpeg
+
+# For building standalone executables (optional, development only)
+# pyinstaller
