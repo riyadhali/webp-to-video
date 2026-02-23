@@ -52,7 +52,7 @@ Modern dark theme GUI built with CustomTkinter
 Command-line interface – ideal for servers and scripting
 
 🛠️ Requirements
-Python 3.8+
+Python 3.12+
 
 FFmpeg – must be installed and in your system PATH
 
